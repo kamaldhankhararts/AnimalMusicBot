@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "29229367",
+        "value": "22628375",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "c2c7f12d34962cbf34827e9616baa355",
+        "value": "0983551cc3fa85032110d07fcaf6484b",
         "required": true
       },
       "BOT_TOKEN": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "",
+        "value": "-1002336146317",
         "required": true
       }
     },
